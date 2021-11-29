@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Connor-McNamara25
-- 👀 I’m interested in software development and am looking to break into the industry
-- 🌱 I’m currently learning C# and ASP.net 
+- 👀 I’m interested in software development and am looking to break into the industry.
+- 🌱 I’m currently learning C#. 
 - 💞️ I’m looking to collaborate on anything that will help me continue my path as a professional developer. 
